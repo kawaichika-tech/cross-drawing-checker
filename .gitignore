@@ -1,5 +1,6 @@
 # Streamlitのシークレット（APIキーが入るので絶対にコミットしない）
 .streamlit/secrets.toml
+.env
 
 # Pythonキャッシュ
 __pycache__/
